@@ -1,0 +1,181 @@
+student_id,major,education_mode,study_group,hours_studied,attendance_rate,sleep_hours,assignments_completed,previous_score,final_score,passed,grade,exam_date
+1089,Computer Science,Online,Group B,19.3,75.6,7.0,9,86.6,82.6,Yes,B,2026-01-15
+1115,Computer Science,Hybrid,Group D,11.3,95.5,9.3,7,66.6,72.8,Yes,C,2026-01-15
+1132,Biology,In-person,Group D,12.2,65.8,7.1,9,43.8,48.7,No,F,2026-01-15
+1001,Mathematics,Hybrid,Group A,14.1,80.8,5.6,8,79.6,64.1,Yes,D,2026-01-16
+1034,Business,Hybrid,Group D,7.0,74.0,5.0,8,67.9,49.8,No,F,2026-01-16
+1017,Engineering,In-person,Group C,10.5,94.4,5.6,9,89.6,70.9,Yes,C,2026-01-17
+1138,Business,In-person,Group A,14.5,73.5,6.7,11,92.0,71.0,Yes,C,2026-01-18
+1011,Business,Hybrid,Group C,13.5,78.4,5.8,5,63.6,60.5,Yes,D,2026-01-20
+1082,Business,Hybrid,Group B,12.4,89.4,7.8,8,53.8,51.3,No,F,2026-01-20
+1087,Mathematics,In-person,Group C,8.9,66.4,6.8,9,74.8,70.3,Yes,C,2026-01-20
+1053,Mathematics,Hybrid,Group A,14.6,73.9,6.9,9,66.8,67.7,Yes,D,2026-01-21
+1175,Computer Science,In-person,Group C,14.4,81.0,5.5,10,79.6,79.1,Yes,C,2026-01-21
+1032,Biology,In-person,Group A,4.8,100.0,5.7,7,58.4,40.3,No,F,2026-01-22
+1179,Biology,In-person,Group A,14.4,76.2,7.0,10,76.9,74.9,Yes,C,2026-01-22
+1146,Computer Science,In-person,Group C,18.0,66.9,5.7,10,49.1,79.3,Yes,C,2026-01-23
+1048,Computer Science,In-person,Group B,12.0,92.6,9.0,7,85.8,81.7,Yes,B,2026-01-24
+1059,Computer Science,Online,Group B,15.0,47.2,8.1,10,71.6,62.4,Yes,D,2026-01-25
+1063,Engineering,Online,Group A,14.0,62.2,7.0,9,59.4,63.9,Yes,D,2026-01-26
+1102,Engineering,Online,Group C,10.0,65.6,6.6,7,58.4,46.8,No,F,2026-01-27
+1147,Business,Hybrid,Group D,17.6,88.3,6.9,7,60.1,58.6,No,F,2026-01-27
+1167,Mathematics,Hybrid,Group A,15.7,82.8,9.5,8,72.5,70.2,Yes,C,2026-01-27
+1061,Engineering,Hybrid,Group D,13.6,81.3,6.5,8,62.1,74.9,Yes,C,2026-01-29
+1151,Mathematics,In-person,Group B,6.8,85.6,8.0,8,43.0,55.7,No,F,2026-01-29
+1169,Business,In-person,Group A,4.0,62.4,7.4,8,82.3,49.8,No,F,2026-01-29
+1078,Engineering,Online,Group B,9.5,72.5,6.4,6,74.7,58.2,No,F,2026-01-30
+1094,Business,In-person,Group B,18.3,90.6,5.8,7,80.5,78.2,Yes,C,2026-01-30
+1155,Computer Science,Online,Group C,21.0,56.6,6.6,7,38.2,52.5,No,F,2026-01-30
+1154,Engineering,Hybrid,Group A,15.2,82.1,7.3,8,65.0,75.3,Yes,C,2026-01-31
+1051,Computer Science,Online,Group C,18.4,77.8,7.0,9,62.2,52.7,No,F,2026-02-01
+1080,Mathematics,In-person,Group B,5.0,81.8,7.3,5,61.4,48.9,No,F,2026-02-01
+1092,Engineering,Online,Group D,18.0,65.6,5.8,7,88.2,76.9,Yes,C,2026-02-01
+1156,Engineering,In-person,Group C,6.7,79.0,7.4,12,56.0,66.3,Yes,D,2026-02-01
+1139,Mathematics,In-person,Group C,12.8,67.3,7.1,10,77.9,60.9,Yes,D,2026-02-02
+1140,Computer Science,Hybrid,Group D,5.5,78.1,7.0,11,70.0,62.9,Yes,D,2026-02-02
+1077,Computer Science,Hybrid,Group D,14.0,96.0,6.6,9,61.1,74.2,Yes,C,2026-02-03
+1130,Engineering,Online,Group C,11.7,90.0,6.7,10,82.3,79.4,Yes,C,2026-02-03
+1050,Computer Science,Online,Group B,13.0,57.7,9.1,9,52.1,67.9,Yes,D,2026-02-04
+1079,Engineering,Online,Group B,14.1,72.9,6.9,9,74.8,72.6,Yes,C,2026-02-04
+1095,Business,In-person,Group D,10.0,66.3,7.3,8,68.8,54.5,No,F,2026-02-04
+1008,Mathematics,Online,Group A,9.1,70.6,8.1,5,38.6,61.2,Yes,D,2026-02-05
+1108,Computer Science,In-person,Group D,1.2,73.8,7.5,7,88.9,52.4,No,F,2026-02-05
+1153,Computer Science,In-person,Group A,7.2,85.6,8.3,7,77.0,69.3,Yes,D,2026-02-05
+1173,Computer Science,In-person,Group C,9.2,88.7,6.9,7,49.2,58.4,No,F,2026-02-05
+1120,Engineering,In-person,Group D,13.7,83.4,6.2,7,86.4,73.1,Yes,C,2026-02-06
+1176,Computer Science,In-person,Group C,15.4,78.5,6.7,9,71.5,60.6,Yes,D,2026-02-06
+1098,Computer Science,In-person,Group A,13.2,75.3,4.2,11,65.9,70.6,Yes,C,2026-02-07
+1114,Engineering,Online,Group A,10.9,66.9,6.3,8,67.4,57.5,No,F,2026-02-07
+1066,Engineering,Hybrid,Group C,3.8,100.0,7.4,10,46.3,56.8,No,F,2026-02-08
+1110,Biology,Online,Group A,4.4,76.8,7.4,9,80.0,53.6,No,F,2026-02-08
+1076,Computer Science,Hybrid,Group B,22.9,87.5,5.5,7,76.7,84.2,Yes,B,2026-02-10
+1103,Computer Science,Online,Group A,14.0,77.9,7.0,4,71.6,52.5,No,F,2026-02-10
+1004,Engineering,In-person,Group A,16.2,68.3,5.0,6,76.4,70.9,Yes,C,2026-02-11
+1062,Business,Hybrid,Group C,10.7,69.4,8.0,7,65.8,56.2,No,F,2026-02-12
+1111,Business,Hybrid,Group A,8.3,91.5,7.1,8,69.2,63.9,Yes,D,2026-02-14
+1149,Business,In-person,Group B,13.6,83.3,8.0,6,56.4,73.0,Yes,C,2026-02-14
+1072,Business,Hybrid,Group B,8.8,93.0,6.9,10,72.9,64.8,Yes,D,2026-02-15
+1013,Engineering,Online,Group D,17.9,70.6,7.4,10,49.9,62.2,Yes,D,2026-02-16
+1029,Computer Science,Online,Group B,11.9,84.3,5.7,10,73.0,65.5,Yes,D,2026-02-16
+1135,Engineering,In-person,Group B,15.3,89.2,9.1,10,71.0,81.2,Yes,B,2026-02-16
+1006,Biology,In-person,Group A,9.6,86.6,8.1,10,68.0,70.7,Yes,C,2026-02-17
+1152,Biology,Online,Group A,10.7,86.9,7.5,6,75.4,63.5,Yes,D,2026-02-17
+1126,Business,In-person,Group A,8.6,87.3,8.6,11,60.8,80.0,Yes,B,2026-02-18
+1148,Engineering,In-person,Group D,10.9,85.7,8.0,9,54.1,61.5,Yes,D,2026-02-19
+1040,Engineering,In-person,Group C,13.6,100.0,7.4,5,86.4,67.9,Yes,D,2026-02-20
+1064,Mathematics,In-person,Group A,10.6,88.0,7.3,7,36.2,40.1,No,F,2026-02-20
+1086,Computer Science,Online,Group D,15.0,50.2,7.0,8,68.3,77.6,Yes,C,2026-02-20
+1158,Engineering,In-person,Group C,13.1,62.6,7.4,7,34.7,53.2,No,F,2026-02-20
+1172,Business,Online,Group C,17.7,99.6,5.9,4,67.7,74.0,Yes,C,2026-02-20
+1107,Business,Online,Group C,17.2,86.2,6.1,12,67.5,53.4,No,F,2026-02-21
+1170,Biology,Online,Group B,14.3,77.4,8.8,12,58.9,65.1,Yes,D,2026-02-21
+1071,Computer Science,In-person,Group A,16.0,85.5,5.4,10,83.5,78.2,Yes,C,2026-02-22
+1116,Mathematics,Hybrid,Group D,12.9,81.4,6.8,5,58.0,74.0,Yes,C,2026-02-22
+1118,Engineering,Hybrid,Group A,15.2,64.3,7.1,9,75.8,70.5,Yes,C,2026-02-22
+1002,Business,Hybrid,Group D,11.4,60.9,7.6,8,71.3,67.7,Yes,D,2026-02-23
+1023,Biology,In-person,Group C,21.3,54.8,6.4,11,56.0,73.2,Yes,C,2026-02-23
+1159,Mathematics,Online,Group C,19.3,98.2,4.0,3,63.8,64.1,Yes,D,2026-02-23
+1041,Business,In-person,Group A,10.2,75.9,8.7,11,80.1,78.9,Yes,C,2026-02-24
+1030,Engineering,In-person,Group A,13.4,60.1,6.5,8,52.2,55.6,No,F,2026-02-25
+1021,Mathematics,Hybrid,Group D,13.6,100.0,6.4,11,45.1,68.2,Yes,D,2026-02-26
+1036,Computer Science,In-person,Group B,10.7,85.4,7.0,9,64.2,59.3,No,F,2026-02-26
+1037,Computer Science,Online,Group C,20.7,57.2,6.9,7,72.4,81.0,Yes,B,2026-02-26
+1160,Mathematics,Hybrid,Group C,6.5,98.7,5.1,6,53.8,45.8,No,F,2026-02-27
+1014,Mathematics,Hybrid,Group D,10.5,83.7,8.4,9,56.2,56.5,No,F,2026-02-28
+1038,Business,Online,Group B,17.0,80.0,8.3,10,75.4,84.1,Yes,B,2026-02-28
+1039,Computer Science,Hybrid,Group A,7.7,73.3,4.1,9,66.3,61.3,Yes,D,2026-02-28
+1027,Business,Online,Group C,8.2,64.6,7.3,8,69.8,51.4,No,F,2026-03-01
+1142,Business,In-person,Group D,13.2,65.8,8.3,5,63.3,60.4,Yes,D,2026-03-02
+1163,Computer Science,Hybrid,Group B,4.6,94.2,5.7,11,72.8,55.8,No,F,2026-03-03
+1009,Computer Science,Hybrid,Group B,13.9,95.4,7.0,9,51.0,64.8,Yes,D,2026-03-04
+1044,Business,Hybrid,Group D,14.8,85.0,6.2,6,91.2,74.1,Yes,C,2026-03-05
+1074,Computer Science,Online,Group D,1.0,72.8,6.2,6,57.2,35.9,No,F,2026-03-06
+1113,Business,Hybrid,Group B,11.2,60.0,8.7,8,62.6,69.2,Yes,D,2026-03-06
+1157,Computer Science,Online,Group C,8.2,71.3,4.0,8,82.8,49.5,No,F,2026-03-06
+1042,Mathematics,In-person,Group C,10.7,98.0,5.8,7,64.9,66.2,Yes,D,2026-03-07
+1133,Engineering,Online,Group D,8.6,55.7,6.4,9,77.6,62.0,Yes,D,2026-03-07
+1134,Business,In-person,Group A,16.1,79.2,6.8,6,68.7,74.0,Yes,C,2026-03-07
+1035,Business,In-person,Group C,9.9,76.3,7.0,9,51.5,58.0,No,F,2026-03-08
+1125,Computer Science,Hybrid,Group A,10.6,79.9,8.3,11,68.3,70.3,Yes,C,2026-03-08
+1068,Business,In-person,Group C,3.0,82.7,4.9,10,53.7,49.6,No,F,2026-03-10
+1123,Computer Science,In-person,Group D,21.2,75.7,6.3,8,72.5,77.5,Yes,C,2026-03-10
+1022,Business,Hybrid,Group D,20.8,73.1,7.3,12,66.6,71.0,Yes,C,2026-03-11
+1075,Computer Science,Online,Group B,9.6,72.3,7.9,6,74.3,65.9,Yes,D,2026-03-11
+1015,Business,Online,Group A,5.4,71.6,8.2,9,57.7,64.9,Yes,D,2026-03-12
+1019,Mathematics,Online,Group C,13.7,49.0,7.2,7,63.6,56.5,No,F,2026-03-12
+1069,Computer Science,In-person,Group C,5.3,76.0,7.7,9,83.9,58.0,No,F,2026-03-12
+1083,Mathematics,In-person,Group C,11.6,51.0,7.1,12,69.0,74.8,Yes,C,2026-03-12
+1016,Computer Science,Online,Group C,16.8,73.1,6.9,5,97.5,80.1,Yes,B,2026-03-13
+1045,Mathematics,In-person,Group B,10.5,81.8,6.0,6,91.5,73.0,Yes,C,2026-03-13
+1164,Computer Science,In-person,Group A,6.2,78.1,6.2,8,74.8,58.7,No,F,2026-03-13
+1171,Computer Science,In-person,Group A,9.4,77.0,7.1,3,61.3,50.8,No,F,2026-03-14
+1057,Business,In-person,Group B,13.9,83.8,7.9,8,57.4,58.1,No,F,2026-03-16
+1091,Computer Science,Online,Group A,8.0,75.1,8.0,11,56.0,57.1,No,F,2026-03-16
+1104,Biology,Online,Group C,5.0,75.5,6.7,6,59.3,46.3,No,F,2026-03-16
+1131,Computer Science,In-person,Group D,13.5,92.3,6.0,9,42.0,55.8,No,F,2026-03-16
+1090,Business,Online,Group D,7.6,91.4,7.2,8,83.3,62.7,Yes,D,2026-03-17
+1119,Business,Hybrid,Group A,15.0,64.6,5.8,7,75.1,60.8,Yes,D,2026-03-18
+1166,Business,Hybrid,Group C,9.7,64.9,6.5,8,65.6,58.1,No,F,2026-03-18
+1003,Mathematics,In-person,Group D,3.8,83.4,7.4,9,61.3,57.2,No,F,2026-03-19
+1033,Business,Online,Group A,2.7,80.1,4.7,9,75.6,54.6,No,F,2026-03-19
+1049,Engineering,In-person,Group A,23.7,74.1,6.6,9,55.3,86.8,Yes,B,2026-03-20
+1143,Biology,In-person,Group A,8.0,100.0,8.8,7,42.4,40.0,No,F,2026-03-21
+1178,Biology,Hybrid,Group A,4.4,65.0,8.0,10,66.5,68.0,Yes,D,2026-03-21
+1093,Business,Online,Group C,11.1,77.3,5.7,10,61.6,66.1,Yes,D,2026-03-22
+1127,Business,In-person,Group A,7.4,87.7,7.6,9,87.4,71.0,Yes,C,2026-03-22
+1161,Computer Science,Online,Group A,13.1,94.3,7.5,7,77.7,71.9,Yes,C,2026-03-22
+1165,Engineering,Hybrid,Group D,10.1,80.4,8.5,11,90.0,72.3,Yes,C,2026-03-22
+1065,Engineering,In-person,Group B,16.2,82.2,7.0,8,51.5,78.5,Yes,C,2026-03-23
+1081,Engineering,Online,Group A,10.7,75.1,5.9,8,54.5,68.0,Yes,D,2026-03-23
+1150,Computer Science,In-person,Group A,1.2,93.0,7.2,9,68.6,60.3,Yes,D,2026-03-23
+1180,Mathematics,In-person,Group C,7.3,69.0,6.7,8,45.5,48.9,No,F,2026-03-23
+1010,Business,Online,Group C,11.1,72.7,6.1,9,53.8,47.2,No,F,2026-03-24
+1031,Mathematics,In-person,Group D,8.2,86.4,8.6,6,78.3,73.4,Yes,C,2026-03-24
+1043,Engineering,In-person,Group D,12.8,64.8,6.6,4,77.0,53.2,No,F,2026-03-24
+1085,Computer Science,Hybrid,Group C,13.6,68.6,4.8,11,58.5,57.1,No,F,2026-03-24
+1055,Engineering,Hybrid,Group D,11.2,57.5,7.4,7,59.9,57.8,No,F,2026-03-25
+1101,Biology,Online,Group A,7.8,86.4,6.4,6,86.2,55.3,No,F,2026-03-25
+1121,Engineering,Hybrid,Group B,14.5,78.7,7.4,8,85.4,80.7,Yes,B,2026-03-25
+1122,Engineering,Online,Group C,13.3,84.6,7.6,10,63.5,67.3,Yes,D,2026-03-25
+1124,Business,In-person,Group A,11.6,81.3,8.1,7,60.5,71.6,Yes,C,2026-03-25
+1145,Business,Hybrid,Group D,5.5,91.6,7.6,8,78.1,61.3,Yes,D,2026-03-25
+1028,Computer Science,In-person,Group B,13.5,85.0,7.3,8,72.4,70.4,Yes,C,2026-03-27
+1052,Computer Science,In-person,Group D,12.4,67.2,8.9,9,73.0,70.7,Yes,C,2026-03-27
+1144,Engineering,In-person,Group D,12.9,99.4,7.3,8,71.1,72.6,Yes,C,2026-03-28
+1067,Engineering,In-person,Group A,10.5,83.0,7.5,7,41.0,52.9,No,F,2026-03-29
+1096,Engineering,In-person,Group D,18.5,67.1,8.4,6,63.1,77.0,Yes,C,2026-03-29
+1106,Engineering,In-person,Group A,9.6,59.2,6.3,11,77.3,63.8,Yes,D,2026-03-29
+1025,Mathematics,Online,Group D,12.7,74.6,7.3,9,48.8,60.0,Yes,D,2026-03-30
+1046,Mathematics,Hybrid,Group D,16.8,67.6,6.6,8,53.3,66.7,Yes,D,2026-03-31
+1088,Business,Online,Group A,16.0,67.0,6.9,8,75.4,73.6,Yes,C,2026-03-31
+1128,Computer Science,In-person,Group A,6.4,58.6,8.5,10,72.4,75.0,Yes,C,2026-03-31
+1129,Computer Science,Online,Group D,8.0,51.0,4.9,11,65.4,54.8,No,F,2026-03-31
+1054,Engineering,In-person,Group C,11.7,77.0,7.1,3,60.2,45.6,No,F,2026-04-01
+1005,Computer Science,Hybrid,Group D,9.3,62.6,6.9,6,69.3,69.9,Yes,D,2026-04-02
+1162,Biology,Hybrid,Group D,20.2,81.1,7.5,6,59.9,66.5,Yes,D,2026-04-02
+1018,Computer Science,Hybrid,Group B,17.0,65.5,6.6,7,63.1,72.8,Yes,C,2026-04-03
+1058,Engineering,Hybrid,Group A,8.2,71.7,6.2,8,95.4,71.9,Yes,C,2026-04-03
+1137,Biology,In-person,Group A,9.1,84.2,7.5,6,67.7,51.5,No,F,2026-04-04
+1024,Biology,Online,Group B,12.3,74.3,6.3,8,67.0,71.9,Yes,C,2026-04-05
+1060,Computer Science,Online,Group D,16.9,87.4,6.6,11,78.6,75.3,Yes,C,2026-04-05
+1141,Business,Hybrid,Group D,11.7,74.4,7.5,7,62.7,67.1,Yes,D,2026-04-05
+1007,Mathematics,In-person,Group C,7.2,80.9,8.2,7,85.7,73.1,Yes,C,2026-04-06
+1026,Computer Science,Online,Group B,16.8,75.7,6.6,10,58.9,65.5,Yes,D,2026-04-06
+1099,Computer Science,Hybrid,Group C,19.0,85.8,5.1,8,49.3,70.8,Yes,C,2026-04-07
+1100,Biology,Hybrid,Group D,10.4,77.8,6.1,8,79.6,63.2,Yes,D,2026-04-07
+1012,Biology,Online,Group B,13.6,81.2,7.4,9,64.9,67.7,Yes,D,2026-04-08
+1174,Biology,In-person,Group D,9.1,78.1,7.0,8,70.7,60.8,Yes,D,2026-04-08
+1070,Business,In-person,Group A,18.1,87.8,5.9,6,67.5,77.4,Yes,C,2026-04-09
+1084,Computer Science,Online,Group D,15.6,68.1,4.9,5,71.9,70.0,Yes,C,2026-04-10
+1109,Computer Science,In-person,Group D,8.5,65.7,5.3,11,62.2,66.0,Yes,D,2026-04-11
+1112,Computer Science,Online,Group A,13.1,50.6,6.8,9,77.5,56.3,No,F,2026-04-11
+1097,Business,In-person,Group A,12.6,84.7,6.5,9,46.3,63.6,Yes,D,2026-04-13
+1117,Mathematics,Hybrid,Group D,7.5,87.2,5.6,5,75.9,67.9,Yes,D,2026-04-13
+1168,Mathematics,Online,Group A,13.1,78.7,7.0,8,50.2,61.7,Yes,D,2026-04-13
+1020,Engineering,In-person,Group D,11.4,97.3,6.8,10,54.2,64.3,Yes,D,2026-04-14
+1047,Business,Online,Group C,6.9,80.1,8.6,7,56.9,52.5,No,F,2026-04-14
+1056,Mathematics,Hybrid,Group D,8.5,58.6,10.0,3,59.5,60.9,Yes,D,2026-04-14
+1073,Mathematics,In-person,Group C,5.2,71.7,7.1,8,77.4,57.0,No,F,2026-04-14
+1105,Mathematics,In-person,Group C,14.9,63.4,8.2,8,60.5,66.2,Yes,D,2026-04-14
+1136,Computer Science,In-person,Group D,11.3,99.6,6.8,5,52.1,51.2,No,F,2026-04-14
+1177,Business,Hybrid,Group C,14.0,75.6,6.2,7,48.9,54.7,No,F,2026-04-14
